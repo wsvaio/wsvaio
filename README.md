@@ -6,4 +6,6 @@
 </div>
 
 <!-- knock code pictures 一张gif -->
-<img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/yyds.gif" /><br>
+<div align="center">
+ <img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/yyds.gif" />
+</div>
