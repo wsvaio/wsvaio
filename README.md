@@ -10,25 +10,25 @@
 <img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/yyds.gif" />
 </div>
 
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/hr.gif" />
+<!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/hr.gif" /> -->
 
 
 <!-- run 图片 -->
-<div align="center">
+<!-- <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/man_run.png" alt="Man Running" width="250" height="250" />
-</div>
+</div> -->
 
 <!-- Joke 笑话 -->
 <div align="center">
 <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" />
-</div>
-
-<!-- metrics 基础资料 -->
-<div align="center">
-<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/cxyduck.gif" />
-<img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/github-metrics/base.svg" />
-<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/cxyduck.gif" />
 </div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
@@ -38,20 +38,19 @@
 <img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/right.png" />
 </div>
 
+<!-- metrics 基础资料 -->
+<div align="center">
+<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/cxyduck.gif" />
+<img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/github-metrics/base.svg" />
+<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/cxyduck.gif" />
+</div>
+
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
   <tr>
     <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=wsvaio&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
   </tr>
 </table>
-
-
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
 
 <div algin="center">
 <!-- gif -->
