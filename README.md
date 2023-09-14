@@ -15,7 +15,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/profile-snake-contrib/github-contribution-grid-snake-dark.svg" alt="github-snake" />
 </picture>
 </div>
 
