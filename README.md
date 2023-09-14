@@ -45,25 +45,25 @@
 
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/hr.gif" />
 
 <div align="center">
 
 <!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/man_run.png" alt="Man Running" width="250" height="250" />
 
 <!-- Joke 笑话 -->
 <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/images/left.png" />&emsp;
+<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/left.png" />&emsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wsvaio&theme=dark&hide_border=true" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/images/right.png" />
+&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/right.png" />
 
 <!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/images/cxyduck.gif" />&emsp;
+<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/cxyduck.gif" />&emsp;
 <img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/images/cxyduck.gif" />
+&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/cxyduck.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
@@ -75,13 +75,13 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
 <!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/images/githubgif.gif" />
+<img width="36%" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/githubgif.gif" />
 
 <!-- first form 第一个表格 -->
 <table>
@@ -121,6 +121,6 @@
 <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/images/rocket.png"/>
+<img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/rocket.png"/>
 </div>
 
