@@ -29,9 +29,9 @@
 </div> -->
 
 <!-- Joke 笑话 -->
-<div align="center">
+<!--  <div align="center">
 <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" />
-</div>
+</div> -->
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <div align="center">
