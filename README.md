@@ -10,6 +10,13 @@
 <img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/yyds.gif" />
 </div>
 
+<!-- metrics 基础资料 -->
+<div align="center">
+<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/cxyduck.gif" />
+<img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/github-metrics/base.svg" />
+<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/cxyduck.gif" />
+</div>
+
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
@@ -56,14 +63,18 @@
 <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/left.png" />&emsp;
+<div align="center">
+<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/left.png" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wsvaio&theme=dark&hide_border=true" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/right.png" />
+<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/right.png" />
+</div>
 
 <!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/cxyduck.gif" />&emsp;
+<div align="center">
+<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/cxyduck.gif" />
 <img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/cxyduck.gif" />
+<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/cxyduck.gif" />
+</div>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
