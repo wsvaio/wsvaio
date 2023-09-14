@@ -10,12 +10,41 @@
 <img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/yyds.gif" />
 </div>
 
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/hr.gif" />
+
+
+<!-- run 图片 -->
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/man_run.png" alt="Man Running" width="250" height="250" />
+</div>
+
+<!-- Joke 笑话 -->
+<div align="center">
+<img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" />
+</div>
+
 <!-- metrics 基础资料 -->
 <div align="center">
 <img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/cxyduck.gif" />
 <img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/github-metrics/base.svg" />
 <img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/cxyduck.gif" />
 </div>
+
+<!-- github-readme-streak-stats 连续提交代码天数记录 -->
+<div align="center">
+<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/left.png" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wsvaio&theme=dark&hide_border=true" />
+<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/right.png" />
+</div>
+
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=wsvaio&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+  </tr>
+</table>
+
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
@@ -45,33 +74,6 @@
 <img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/profile-3d-contrib/profile-night-rainbow.svg" />
 
 
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/hr.gif" />
-
-<div align="center">
-
-<!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/man_run.png" alt="Man Running" width="250" height="250" />
-
-<!-- Joke 笑话 -->
-<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
-
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<div align="center">
-<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/left.png" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wsvaio&theme=dark&hide_border=true" />
-<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/right.png" />
-</div>
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=wsvaio&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
-  </tr>
-</table>
-
-</div>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/hr.gif" />
