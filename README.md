@@ -17,7 +17,6 @@
 <img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/cxyduck.gif" />
 </div>
 
-
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -42,13 +41,9 @@
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/icon.png" /></div>
 
+<!-- 3d贡献图 -->
 <img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/profile-3d-contrib/profile-night-rainbow.svg" />
 
-<div align="center">
-
-![Metrics](https://metrics.lecoq.io/wsvaio?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
-
-</div>
 
 
 <!-- ########################################## 分割 ########################################## -->
@@ -67,13 +62,6 @@
 <img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/left.png" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wsvaio&theme=dark&hide_border=true" />
 <img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/right.png" />
-</div>
-
-<!-- metrics 基础资料 -->
-<div align="center">
-<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/cxyduck.gif" />
-<img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/github-metrics/base.svg" />
-<img width="150" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/cxyduck.gif" />
 </div>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
