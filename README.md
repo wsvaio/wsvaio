@@ -13,9 +13,9 @@
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/profile-snake-contrib/github-contribution-grid-snake-dark.svg" alt="github-snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img src="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" alt="github-snake" />
 </picture>
 </div>
 
