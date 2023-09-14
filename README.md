@@ -23,3 +23,38 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
+
+
+<!-- wakatime 统计 -->
+### 📊 WakaTime
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=wsvaio&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=wsvaio&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=wsvaio&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+</picture>
+
+
+
+<!-- gif -->
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/html.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/cssgif.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/vscode.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/react.webp">
+<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/vue.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/python.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/js.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/github.webp">
+
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/icon.png" /></div>
+
+
+
+<img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/profile-3d-contrib/profile-night-rainbow.svg" />
