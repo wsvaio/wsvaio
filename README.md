@@ -41,7 +41,7 @@
 </picture>
 
 
-
+<div align="center" >
 <!-- gif -->
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/html.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/cssgif.webp">
@@ -51,7 +51,7 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/github.webp">
-
+</div>
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/wsvaio/wsvaio/assets/icon.png" /></div>
 
