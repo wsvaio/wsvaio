@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 94.3mb of code in 5359 edited files across 647 commits</small>
+                <small>estimation from 94.3mb of code in 5366 edited files across 648 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="203.85759726401554" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="203.85759726401554" y="0" width="165.81656293527007" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="369.67416019928567" y="0" width="57.02787975372362" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="426.70203995300926" y="0" width="33.297960046990745" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="203.77860279411425" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="203.77860279411425" y="0" width="165.74353174826823" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="369.5221345423825" y="0" width="57.00276275891388" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="426.5248973012964" y="0" width="33.475102698703644" height="8" fill="#41b883"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -76,7 +76,7 @@
                             </div>
                             <small>
                                 <div>19.8k lines</div>
-                                <div>505 kB</div>
+                                <div>508 kB</div>
                             </small>
                         </div>
                     </section>
