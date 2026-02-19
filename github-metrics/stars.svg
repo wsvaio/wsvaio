@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huangmingfu/react-ts-template</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">一套基于react19、ts、vite7的项目模板,帮助快速搭建react项目。集成了一些项目规范，封装了axios、router路由懒加载等，配置了环境变量、scss样式全局变量等，集成了import顺序自动美化排序等插件。</div>
